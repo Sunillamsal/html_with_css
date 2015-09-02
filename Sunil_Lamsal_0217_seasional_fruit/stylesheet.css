@@ -1,0 +1,50 @@
+html{
+	background-color:#F2F6F7;
+}
+h1{
+	text-align:center;
+
+	color: #228E1A;
+}
+
+p{
+	color:maroon; 
+	font-family:garamond; 
+	font-size:30px;
+ }
+
+ table{
+
+ 	border: 2px;
+ 	width:100%;
+ 	border-style: outset;
+ 	
+ }
+ h2.para{
+ 	color:maroon; 
+	font-family:garamond; 
+	font-size:30px; 
+ }
+ html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+
+#footer {
+	background:#4FC242;
+	width:100%;
+	height:100px;
+	position:relative;
+	bottom:0;
+	left:0;
+	text-align: center;
+	padding-top: 5px;
+}
+ul {
+    list-style: square inside url("sqpurple.gif");
+    color:green;
+
+}
